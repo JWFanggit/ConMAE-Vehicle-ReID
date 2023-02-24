@@ -1,4 +1,4 @@
-# ConMAE-Vehicle-ReID
+# onMAE: Contour Guided MAE for Unsupervised Vehicle Re-Identification
 #This is a PyTorch/GPU implementation of the paper [ConMAE: Contour Guided MAE for Unsupervised Vehicle Re-Identification](CCDC 2023)
 
 This implementation is based on the secondary development of [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) and [Cluster Contrast for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.11568), thanks to the authors of the above work.
